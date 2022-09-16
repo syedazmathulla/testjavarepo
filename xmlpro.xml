@@ -1,0 +1,7 @@
+.xml
+<web-app>  
+  <welcome-file-list>  
+   <welcome-file>Version 1</welcome-file>  
+   <welcome-file>Updated file</welcome-file>  
+  </welcome-file-list>  
+</web-app>  
